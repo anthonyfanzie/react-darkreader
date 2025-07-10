@@ -13,13 +13,16 @@
     "name": "Turkyden",
     "email": "wj871287@gmail.com"
   },
-  "homepage": "http://github.com/Turkyden/react-darkreader",
+  "homepage": "http://github.com/anthonyfanzie/react-darkreader",
   "repository": {
     "type": "git",
-    "url": "git@github.com:Turkyden/react-darkreader.git"
+    "url": "git@github.com:anthonyfanzie/react-darkreader.git"
   },
   "bugs": {
     "url": "http://github.com/Turkyden/react-darkreader/issues"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
   },
   "license": "MIT",
   "scripts": {
